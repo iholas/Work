@@ -3,7 +3,7 @@
 Examples of data work from past projects. 
 
 ## UCR_macro.sas 
-This is a SAS 9.2 syntax reading in raw [FBI Unified Criminal Reporting[(https://ucr.fbi.gov/) data, cleaning and aggregating to State level. Along the way the data is merged with US Census population estimates to calcuate crime rates per 1000 citizens. 
+This is a SAS 9.2 syntax reading in raw [FBI Unified Criminal Reporting](https://ucr.fbi.gov/) data, cleaning and aggregating to State level. Along the way the data is merged with US Census population estimates to calcuate crime rates per 1000 citizens. 
 
 The data cleaned thorugh this macro was key to a book I co-authored in 2016:
 
