@@ -13,7 +13,7 @@ Gershoff, Elizabeth, Purtell, Kelly M., Holas, Igor<br/>
 
 
 ## group_comparison_constrained.out 
-This is an MPlus OUT file (log and results) which was part of masters thesis. In this file I read my complex regression model, and compare the parameters between two groups. In this particular file, I constrained the parameters to be equal in both groups testing the model-fit deterioration under this forced condition. 
+This is an MPlus OUT file (log and results) which was part of masters thesis. In this script test whether the path-analytic model is equivalent for male and female students -- particulaty, here is force the model paramters to be equal between the groups to see if this forced restriction deteriorates model fit.  
 
 This work resulted in my masters thesis and a paper: 
 
