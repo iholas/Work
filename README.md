@@ -11,7 +11,7 @@ This method, originaly built in SAS then rebuilt in R, was published in a [handf
 ## UCR_macro.sas
 This is a SAS 9.2 syntax reading in raw [FBI Unified Criminal Reporting](https://ucr.fbi.gov/) data, cleaning and aggregating to State level. Along the way the data is merged with US Census population estimates to calcuate crime rates per 1000 citizens. 
 
-This macro, modified for distribution, is published [here](https://github.com/iholas/ucr_read).
+This macro, modified for distribution, is published [here](https://github.com/iholas/ucr_read). I am also re-working the method into a [Python script](https://github.com/iholas/ucr_read.py)
 
 The data cleaned thorugh this macro was part of my contribution to this [book](http://www.springer.com/us/book/9783319148175)
 
