@@ -17,6 +17,6 @@ The data cleaned thorugh this macro was part of my contribution to this [book](h
 
 
 ## group_comparison_constrained.out 
-This is an MPlus OUT file (log and results) which was part of masters thesis. In this script test whether the path-analytic model is equivalent for male and female students -- particulaty, here is force the model paramters to be equal between the groups to see if this forced restriction deteriorates model fit.  
+This is an MPlus OUT file (log and results) which was part of my masters thesis. In this script test whether the path-analytic model is equivalent for male and female students -- particulaty, here is force the model paramters to be equal between the groups to see if this forced restriction deteriorates model fit.  
 
 This work resulted in my masters [thesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tWbk-PUAAAAJ&citation_for_view=tWbk-PUAAAAJ:u-x6o8ySG0sC) and a [paper](https://www.researchgate.net/publication/51854488_Are_Middle_Schools_Harmful_The_Role_of_Transition_Timing_Classroom_Quality_and_School_Characteristics)
